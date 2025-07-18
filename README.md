@@ -54,6 +54,7 @@ Tool	Purpose:-
 
 Basic preview of the Dashboard are:-
 ->Dashboard for Excel is:-
+https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/blob/main/Amazon%20Project%20Excel%20Dashboard%20Preview.png
 ->Dashboard for Power BI is:-
 https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/blob/main/Amazon%20Project%20Bi%20Dashboard%20Preview.png
 
