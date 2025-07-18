@@ -53,6 +53,7 @@ Tool	Purpose:-
 ->This project is a mini business intelligence case study aimed at transforming raw data into actionable insights through interactive dashboards. Whether it's for management decision-making or academic demonstration, the dashboards offer a powerful lens into sales performance.
 
 Basic preview of the Dashboard are:-
+->Dashboard for Excel is:-
 ->Dashboard for Power BI is:-
 https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/blob/main/Amazon%20Project%20Bi%20Dashboard%20Preview.png
 
