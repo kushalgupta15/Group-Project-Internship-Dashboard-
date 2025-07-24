@@ -8,6 +8,7 @@
 
 ----
 🎯 Key Features:-
+----
 📆 Yearly Sales Trends (2021–2023).
 🏙 Profit Breakdown by Cities.
 🌍 Sales Distribution by Regions.
@@ -18,6 +19,7 @@
 
 ----
 🛠 Tools & Technologies Used
+----
 Tool	Purpose:-
 ->Microsoft Excel	Dashboard creation using Pivot Tables, Charts, and Slicers.
 ->Power BI	Interactive and dynamic data visualization with DAX.
@@ -27,7 +29,7 @@ Tool	Purpose:-
 
 ----
 🛒Dashboard Highlights-->
-
+----
 📊Excel Dashboard:-
   ->Clean and user-friendly layout
   ->Slicers to filter by Region, City, Year, and Category
