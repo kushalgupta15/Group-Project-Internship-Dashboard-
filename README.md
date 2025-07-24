@@ -66,12 +66,12 @@ Basic preview of the Dashboard are:-
 
 https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/blob/main/Amazon%20Project%20Excel%20Dashboard%20Preview.png
 
-Get file:- https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/blob/main/Amazon%20project.pbix
+Get file:- https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/blob/main/excel%20infotact%20amazon%20sales%20project%20show.xlsx 
 ----
 ->Dashboard for Power BI is:-
 <img width="1159" height="659" alt="Screenshot 2025-07-12 171348" src="https://github.com/user-attachments/assets/2767cf19-a3e8-4d94-b4ce-fac7dffda41f" />
 
 https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/blob/main/Amazon%20Project%20Bi%20Dashboard%20Preview.png
 
-Get file:-
+Get file:- https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/blob/main/Amazon%20project.pbix
 
