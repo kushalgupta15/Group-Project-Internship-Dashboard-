@@ -1,5 +1,5 @@
 🛒 Amazon Sales Analysis Dashboard------>
-
+----
 📋 Project Summary:-
 
 *This project focuses on building interactive visual dashboards to analyze Amazon sales performance across different regions, cities, years, categories, and payment methods. The primary objective is to gain meaningful insights into sales trends, customer behavior, category-wise performance, and profitability using realistic simulated data.
