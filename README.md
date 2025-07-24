@@ -74,4 +74,5 @@ Get file:- https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/
 https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/blob/main/Amazon%20Project%20Bi%20Dashboard%20Preview.png
 
 Get file:- https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/blob/main/Amazon%20project.pbix
+----
 
