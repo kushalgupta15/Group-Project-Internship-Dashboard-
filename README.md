@@ -59,7 +59,7 @@ Tool	Purpose:-
 ->This project is a mini business intelligence case study aimed at transforming raw data into actionable insights through interactive dashboards. Whether it's for management decision-making or academic demonstration, the dashboards offer a powerful lens into sales performance.
 
 ----
-Basic preview of the Dashboard are:-
+Basic preview of the Dashboard are:----
 ->Dashboard for Excel is:-
 ----
 <img width="1454" height="602" alt="Screenshot 2025-07-12 171034" src="https://github.com/user-attachments/assets/57103022-006b-48dc-9d0f-6af9dc569708" />
