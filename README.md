@@ -36,8 +36,6 @@ Tool	Purpose:-
   ->Pie and Bar Charts for Category Sales and Profit by Cities
   ->Year-over-Year sales line chart with trends
 ----
-Basic preview of the Dashboard are->
-----
 ->Dashboard for Excel is:-
 ----
 <img width="1454" height="602" alt="Screenshot 2025-07-12 171034" src="https://github.com/user-attachments/assets/57103022-006b-48dc-9d0f-6af9dc569708" />
