@@ -1,4 +1,5 @@
 🛒 Amazon Sales Analysis Dashboard------>
+
 ----
 📋 Project Summary->
 ----
@@ -62,6 +63,11 @@ Tool	Purpose:-
 🙌 Final Note->
 ----
 ->This project is a mini business intelligence case study aimed at transforming raw data into actionable insights through interactive dashboards. Whether it's for management decision-making or academic demonstration, the dashboards offer a powerful lens into sales performance.
+
+----
+Presentation Link->
+----
+Here:- https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/blob/main/Project%20amazon%20presentation.pptx
 
 ----
 Basic preview of the Dashboard are->
