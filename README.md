@@ -1,4 +1,4 @@
-🛒 Amazon Sales Analysis Dashboard------>
+🛒 AMAZON SALES ANALYSIS DASHBOARD->
 ----
 📋 Project Summary->
 ----
