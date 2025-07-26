@@ -84,6 +84,9 @@ Get file:- https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/
 ->This project is a mini business intelligence case study aimed at transforming raw data into actionable insights through interactive dashboards. Whether it's for management decision-making or academic demonstration, the dashboards offer a powerful lens into sales performance.
 
 ----
+<img width="635" height="353" alt="image" src="https://github.com/user-attachments/assets/2e018b38-ef75-41af-8e27-c8fe4550abe0" />
+
+----
 Presentation Link->
 ----
 Here:- https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/blob/main/Project%20amazon%20presentation.pptx
