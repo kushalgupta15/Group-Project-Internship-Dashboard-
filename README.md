@@ -75,7 +75,7 @@ Basic preview of the Dashboard are->
 ----
 <img width="1454" height="602" alt="Screenshot 2025-07-12 171034" src="https://github.com/user-attachments/assets/57103022-006b-48dc-9d0f-6af9dc569708" />
 
-<img width="632" height="348" alt="image" src="https://github.com/user-attachments/assets/a8922d77-0328-4617-910c-89e4584960b6" />
+<img width="1454" height="602" alt="image" src="https://github.com/user-attachments/assets/a8922d77-0328-4617-910c-89e4584960b6" />
 
 https://github.com/kushalgupta15/Group-Project-Internship-Dashboard-/blob/main/Amazon%20Project%20Excel%20Dashboard%20Preview.png
 
